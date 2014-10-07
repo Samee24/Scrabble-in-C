@@ -1,25 +1,3 @@
-  /*****************************************************************
-     * Samee Zahid                                                   *
-     * Box:  4846                                                    *
-     * Supplemental Problem 4 for CSC 161                            *
-     * Assignment for Friday, April 10                               *
-     *****************************************************************/
-
-    /* ***************************************************************
-     * Academic honesty certification:                               *
-     *   Written/online sources used:                                *
-     *     Lab on strings and character input                        *
-     *     Lab on 2d arrays                                          *
-     *                                                               *
-     *   Help obtained                                               *
-     *     none                                                      *
-     *   My signature below confirms that the above list of sources  *
-     *   is complete AND that I have not talked to anyone else       *
-     *   [e.g., CSC 161 students] about the solution to this problem *
-     *                                                               *
-     *   Signature:                                                  *
-     *****************************************************************/
-
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
